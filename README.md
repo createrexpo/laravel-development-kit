@@ -1,3 +1,0 @@
-## Laravel PHP Framework
-
-a ready made installed code to develop application in laravel. you just need to download and run. Enjoy ...
